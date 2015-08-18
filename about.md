@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a senior design student at Simon Fraser University in the School of Interactive Arts and Technology, studying graphic and interface design.
+Hello!! I’m Kari and I’m currently a senior design student at Simon Fraser University in the School of Interactive Arts & Technology, studying graphic and interface design.I have a passion for creating simple, creative, and modern branding and interface designs. In addition I love typography. I consistently point out and critique branding, posters and advertisements as I walk down the street. In my spare time I enjoy creating print designs to sell in my etsy shop, Wicked Pixie Design.
 
-I believe that design has the power to visually influence its audience. Additionally, leave an impactful lasting impression. Design is a part of people’s everyday lives from the logo on their coffee cup to the large advertisements at SkyTrain stations. In my works I aim to create simple minimalistic designs through the use of colour, shapes, and structure. I want my designs to speak for itself especially within the creation of branding. A company’s brand should showcase its personality, professionalism and credibility without having to say it
+Outside of designing I love enjoying the outdoors, drinking Starbucks frappuccinos and most importantly irish dancing! Irish dance has been my first passion since I was five years old. It has allowed me to travel, meet new people, and experience new things.
 
-Check out my facebook page! Keep up to date with my latest projects and my new etsy designs! [Wicked Pixie Design](http://facebook.com/wickedpixiedesign)
+Check out my facebook page to keep up to date with my latest projects and my new etsy designs! [Wicked Pixie Design](http://facebook.com/wickedpixiedesign)
 
